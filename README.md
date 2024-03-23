@@ -1,6 +1,6 @@
 # Travels & Tourism Management
 
-Tourism is one of the fastest growing and profitable industries. This project is useful for the manager of the company as it helps them to search the data faster than existing system, to get customer record easily and report of the customer payment etc. are generated as per requirement.
+Tourism is one of the fastest growing and profitable industries. This project is useful for the manager of the company as it helps them to search the data faster than existing system, to get customer record easily and report of the customer payment etc. are generated as per requirement. Simple Full Stack project for Travels & Tourism.
 
 ## Dependencies
 
