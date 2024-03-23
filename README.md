@@ -49,8 +49,11 @@ Tourism is one of the fastest growing and profitable industries. This project is
          - Open git bash here or your Terminal > run  "npm run dev" [ VUE CLI ]
 
          - Open a browser run localhost:5173 / 5174  [ Mandatory ]
+         
 
-           N.B-> 
+           [ N.B:-> In Vue localhost could be 5173 / 5174  both.]
+
+
 
      11. Admin Credential
 
