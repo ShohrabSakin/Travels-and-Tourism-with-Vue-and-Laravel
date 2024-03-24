@@ -14,7 +14,7 @@ Tourism is one of the fastest growing and profitable industries. This project is
 | Front end               | Vue 3.4.15                                               |
 | Back end                | Laravel 10.3.2                                              |
 
-
+## Some Project Screenshots
 
 
    ## How to run the project
