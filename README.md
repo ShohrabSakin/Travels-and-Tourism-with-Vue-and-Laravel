@@ -42,10 +42,15 @@ Tourism is one of the fastest growing and profitable industries. This project is
 
 ![Screenshot (25)](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/f23a31ca-08f4-4eb5-a368-8ba606862a01)
 
+### Service Payment Information
+
 ![Check In Info](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/65f55156-ab98-4cba-b942-760b9d63e39f)
+
+### Hotel Booking / Check-in Information
 
 ![Hotel Checkout ](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/d6774f49-84b1-4702-9125-b2df68e2d0aa)
 
+### Hotel Check-out Information
 
    ## How to run the project
     1. Download the zip file.
