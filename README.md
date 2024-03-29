@@ -25,13 +25,20 @@ Tourism is one of the fastest growing and profitable industries. This project is
 ### Booking Form
 
 ![Flight Schedule](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/1241c912-9f6a-4b44-b9cb-caed1030dd2b)
+
 ### Flight Schedule
 
 ![Dashboard](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/dd67609e-8a56-4c7e-b085-6103f6e7e564)
 
+### Booking Details Information
+
 ![Booking Payment Entry](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/9b817058-3832-4f88-83e1-6892aa19063c)
 
+### Booking Payment Entries
+
 ![Hotel Rooms](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/79f88c71-bd77-49b6-8cf6-b41a6413c323)
+
+### Rooms Details Information
 
 ![Screenshot (25)](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/f23a31ca-08f4-4eb5-a368-8ba606862a01)
 
