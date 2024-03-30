@@ -28,6 +28,10 @@ Tourism is one of the fastest growing and profitable industries. This project is
 
 ### Flight Schedule
 
+![JWT Login](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/44874b49-550c-489f-be3b-da1b42488a73)
+
+### JWT Authentication
+
 ![Dashboard](https://github.com/ShohrabSakin/Travels-and-Tourism-with-React-and-CodeIgniter/assets/162773557/dd67609e-8a56-4c7e-b085-6103f6e7e564)
 
 ### Booking Details Information
